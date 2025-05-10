@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">foodapp</string>
+    <string name="title_activity_main">Food App Main</string>
+    <string name="back">Back</string>
+</resources>
